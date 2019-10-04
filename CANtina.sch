@@ -163,7 +163,7 @@ $Comp
 L Jumper:SolderJumper_2_Open JP1
 U 1 1 5D75ECBD
 P 2900 2300
-F 0 "JP1" V 2850 2150 50  0000 L CNN
+F 0 "JP1" V 2950 2350 50  0000 L CNN
 F 1 "SolderJumper_2_Open" V 2945 2368 50  0001 L CNN
 F 2 "cpavlina/kicad-pcblib/conn-test.pretty:JUMPER-SOLDER-3mm" H 2900 2300 50  0001 C CNN
 F 3 "~" H 2900 2300 50  0001 C CNN
@@ -186,7 +186,7 @@ $Comp
 L Jumper:SolderJumper_2_Open JP2
 U 1 1 5D7652F4
 P 3150 2250
-F 0 "JP2" V 3100 2100 50  0000 L CNN
+F 0 "JP2" V 3150 2050 50  0000 L CNN
 F 1 "SolderJumper_2_Open" V 3195 2318 50  0001 L CNN
 F 2 "cpavlina/kicad-pcblib/conn-test.pretty:JUMPER-SOLDER-3mm" H 3150 2250 50  0001 C CNN
 F 3 "~" H 3150 2250 50  0001 C CNN
