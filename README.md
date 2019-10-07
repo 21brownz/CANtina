@@ -1,4 +1,6 @@
 # CANtina
+![CANtina](/images/layout.png)
+
 CANtina is a CAN bus star PCB inspired by Team 5883's PCBs and developed by 6502 DARC SIDE's Electrical Subteam.
 * CANtina utilizes Weidmuller LSF-SMT-3.5 push-to-connect terminal blocks to allow you to easily connect and disconnect devices.
 * CANtina has built in resistors in order to allow you to maintain CANbus's required impedance.
